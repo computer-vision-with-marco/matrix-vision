@@ -1,0 +1,7 @@
+{
+  "name": "PixelMatrix Pro",
+  "description": "Transform images into digital pixel matrices with adjustable resolutions. Analyze color patterns and export raw pixel data in RGB, Hex, or Grayscale formats.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
