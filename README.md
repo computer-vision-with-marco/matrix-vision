@@ -20,4 +20,4 @@ Run the automated startup script:
 2. Run the development server:
    `npm run dev`
 
-The app will be available at http://localhost:3001
+The app will be available at http://localhost:3000
